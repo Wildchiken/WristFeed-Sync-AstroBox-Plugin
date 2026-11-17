@@ -1,7 +1,7 @@
 {
     "name": "腕读同步",
     "icon": "icon.png",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "description": "把 RSS / Atom 订阅的文章同步到手环上的「腕读」，同步一次，离线慢慢看。",
     "author": "Wildchiken",
     "website": "",
